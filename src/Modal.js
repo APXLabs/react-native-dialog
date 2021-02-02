@@ -10,7 +10,7 @@ import {
 } from "react-native";
 
 const MODAL_ANIM_DURATION = 300;
-const MODAL_BACKDROP_OPACITY = 0.3;
+const MODAL_BACKDROP_OPACITY = 0.5;
 
 const CONTENT_ANIMATION_IN = Platform.select({
   ios: {
